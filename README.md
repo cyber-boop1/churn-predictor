@@ -8,7 +8,7 @@ A machine learning web app that predicts whether a customer is likely to churn (
 ---
 
 ## 🌐 Live Demo
-👉 [Click here to try the app](https://your-app-link.streamlit.app)
+👉 [Click here to try the app](https://churn-predictor-kb9ctfjwse6kk2utyzfu2d.streamlit.app/)
 
 ---
 
